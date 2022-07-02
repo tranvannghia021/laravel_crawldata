@@ -37,6 +37,8 @@ php artisan storage:link
 - package hổ trợ :composer require weidner/goutte
 - run:php artisan crawl:data (cào 1 lần)
 - run: php artisan schedule:work (cào bài báo từ dân trí vô hạn: 1 lần cào/1h)
+## http://localhost:8000/admin (trang quản trị)
+## http://localhost:8000(trang bài post)
 
 
 
