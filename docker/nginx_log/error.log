@@ -1,0 +1,401 @@
+2022/06/19 09:15:59 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/19 09:15:59 [notice] 19#19: using the "epoll" event method
+2022/06/19 09:15:59 [notice] 19#19: nginx/1.21.6
+2022/06/19 09:15:59 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/19 09:15:59 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/19 09:15:59 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/19 09:15:59 [notice] 19#19: start worker processes
+2022/06/19 09:15:59 [notice] 19#19: start worker process 20
+2022/06/19 09:15:59 [notice] 19#19: start worker process 21
+2022/06/19 09:15:59 [notice] 19#19: start worker process 22
+2022/06/19 09:15:59 [notice] 19#19: start worker process 23
+2022/06/19 09:27:09 [warn] 18#18: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/19 09:27:09 [notice] 18#18: using the "epoll" event method
+2022/06/19 09:27:09 [notice] 18#18: nginx/1.21.6
+2022/06/19 09:27:09 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/19 09:27:09 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/19 09:27:09 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/19 09:27:09 [notice] 18#18: start worker processes
+2022/06/19 09:27:09 [notice] 18#18: start worker process 19
+2022/06/19 09:27:09 [notice] 18#18: start worker process 20
+2022/06/19 09:27:09 [notice] 18#18: start worker process 21
+2022/06/19 09:27:09 [notice] 18#18: start worker process 22
+2022/06/19 09:48:08 [warn] 18#18: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/19 09:48:08 [notice] 18#18: using the "epoll" event method
+2022/06/19 09:48:08 [notice] 18#18: nginx/1.21.6
+2022/06/19 09:48:08 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/19 09:48:08 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/19 09:48:08 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/19 09:48:08 [notice] 18#18: start worker processes
+2022/06/19 09:48:08 [notice] 18#18: start worker process 19
+2022/06/19 09:48:08 [notice] 18#18: start worker process 20
+2022/06/19 09:48:08 [notice] 18#18: start worker process 21
+2022/06/19 09:48:08 [notice] 18#18: start worker process 22
+2022/06/19 09:52:45 [warn] 19#19: *25 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.20.0.1, server: _, request: "POST /admin/products/add HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/add"
+2022/06/19 09:53:01 [error] 19#19: *28 open() "/var/www/html/public/storage/uploads/ao-nam-ngan-trang.jpg" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /storage/uploads/ao-nam-ngan-trang.jpg HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/show/1"
+2022/06/19 09:53:47 [error] 19#19: *34 open() "/var/www/html/public/storage/Uploads/ao-nam-ngan-trang.jpg" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /storage/Uploads/ao-nam-ngan-trang.jpg HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/edit/1"
+2022/06/19 09:56:43 [warn] 20#20: *46 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.20.0.1, server: _, request: "POST /admin/products/add HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/add"
+2022/06/19 09:59:50 [warn] 20#20: *65 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 172.20.0.1, server: _, request: "POST /admin/products/add HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/add"
+2022/06/19 10:29:09 [warn] 18#18: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/19 10:29:09 [notice] 18#18: using the "epoll" event method
+2022/06/19 10:29:09 [notice] 18#18: nginx/1.21.6
+2022/06/19 10:29:09 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/19 10:29:09 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/19 10:29:09 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/19 10:29:09 [notice] 18#18: start worker processes
+2022/06/19 10:29:09 [notice] 18#18: start worker process 19
+2022/06/19 10:29:09 [notice] 18#18: start worker process 20
+2022/06/19 10:29:09 [notice] 18#18: start worker process 21
+2022/06/19 10:29:09 [notice] 18#18: start worker process 22
+2022/06/19 10:29:58 [warn] 19#19: *6 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.22.0.1, server: _, request: "POST /admin/products/add HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/add"
+2022/06/19 10:30:56 [warn] 20#20: *13 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.22.0.1, server: _, request: "POST /admin/products/add HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/add"
+2022/06/19 10:31:43 [warn] 19#19: *20 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 172.22.0.1, server: _, request: "POST /admin/products/add HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/add"
+2022/06/19 10:32:36 [warn] 19#19: *26 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000004, client: 172.22.0.1, server: _, request: "POST /admin/products/add HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/add"
+2022/06/19 10:35:49 [warn] 20#20: *55 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000005, client: 172.22.0.1, server: _, request: "POST /admin/products/add HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/add"
+2022/06/19 10:36:24 [warn] 20#20: *61 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000006, client: 172.22.0.1, server: _, request: "POST /admin/products/add HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/add"
+2022/06/19 10:36:56 [warn] 20#20: *66 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000007, client: 172.22.0.1, server: _, request: "POST /admin/products/add HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/add"
+2022/06/19 10:37:49 [warn] 21#21: *73 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000008, client: 172.22.0.1, server: _, request: "POST /admin/products/add HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/add"
+2022/06/21 08:43:16 [warn] 18#18: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/21 08:43:16 [notice] 18#18: using the "epoll" event method
+2022/06/21 08:43:16 [notice] 18#18: nginx/1.21.6
+2022/06/21 08:43:16 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/21 08:43:16 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/21 08:43:16 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/21 08:43:16 [notice] 18#18: start worker processes
+2022/06/21 08:43:16 [notice] 18#18: start worker process 19
+2022/06/21 08:43:16 [notice] 18#18: start worker process 20
+2022/06/21 08:43:16 [notice] 18#18: start worker process 21
+2022/06/21 08:43:16 [notice] 18#18: start worker process 22
+2022/06/21 10:58:25 [warn] 21#21: *89 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.18.0.1, server: _, request: "POST /admin/products/edit/16 HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/edit/16"
+2022/06/21 11:03:29 [warn] 21#21: *109 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.18.0.1, server: _, request: "POST /admin/products/edit/16 HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/edit/16"
+2022/06/21 11:06:57 [warn] 21#21: *113 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 172.18.0.1, server: _, request: "POST /admin/products/edit/16 HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/edit/16"
+2022/06/21 11:13:50 [warn] 21#21: *119 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000004, client: 172.18.0.1, server: _, request: "POST /admin/products/edit/16 HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/edit/16"
+2022/06/21 11:19:59 [error] 22#22: *137 open() "/var/www/html/public/admin/products/assets/img/product/samsung-galaxy-tab-10.jpg" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /admin/products/assets/img/product/samsung-galaxy-tab-10.jpg HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/show/12"
+2022/06/21 11:19:59 [error] 19#19: *140 open() "/var/www/html/public/admin/products/assets/img/product/samsung-galaxy-tab-4.jpg" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /admin/products/assets/img/product/samsung-galaxy-tab-4.jpg HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/show/12"
+2022/06/21 11:19:59 [error] 19#19: *139 open() "/var/www/html/public/admin/products/assets/img/product/samsung-galaxy-tab.jpg" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /admin/products/assets/img/product/samsung-galaxy-tab.jpg HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/show/12"
+2022/06/21 11:19:59 [error] 19#19: *139 open() "/var/www/html/public/admin/products/assets/img/product/samsung-galaxy-tab-10.jpg" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /admin/products/assets/img/product/samsung-galaxy-tab-10.jpg HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/show/12"
+2022/06/21 11:19:59 [error] 22#22: *137 open() "/var/www/html/public/admin/products/assets/img/product/samsung-galaxy-tab-4.jpg" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /admin/products/assets/img/product/samsung-galaxy-tab-4.jpg HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/show/12"
+2022/06/21 11:19:59 [error] 19#19: *140 open() "/var/www/html/public/admin/products/assets/img/product/samsung-galaxy-tab.jpg" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /admin/products/assets/img/product/samsung-galaxy-tab.jpg HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/show/12"
+2022/06/21 11:20:28 [error] 22#22: *141 open() "/var/www/html/public/admin/products/assets/img/product/samsung-galaxy-tab-10.jpg" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /admin/products/assets/img/product/samsung-galaxy-tab-10.jpg HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/show/12"
+2022/06/21 11:20:28 [error] 22#22: *142 open() "/var/www/html/public/admin/products/assets/img/product/samsung-galaxy-tab.jpg" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /admin/products/assets/img/product/samsung-galaxy-tab.jpg HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/show/12"
+2022/06/21 11:20:28 [error] 19#19: *144 open() "/var/www/html/public/admin/products/assets/img/product/samsung-galaxy-tab-4.jpg" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /admin/products/assets/img/product/samsung-galaxy-tab-4.jpg HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/show/12"
+2022/06/21 11:56:53 [warn] 21#21: *229 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000005, client: 172.18.0.1, server: _, request: "POST /admin/products/add HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/add"
+2022/06/21 11:57:51 [warn] 22#22: *231 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000006, client: 172.18.0.1, server: _, request: "POST /admin/products/edit/17 HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/edit/17"
+2022/06/22 02:40:10 [warn] 18#18: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/22 02:40:10 [notice] 18#18: using the "epoll" event method
+2022/06/22 02:40:10 [notice] 18#18: nginx/1.21.6
+2022/06/22 02:40:10 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/22 02:40:10 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/22 02:40:10 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/22 02:40:10 [notice] 18#18: start worker processes
+2022/06/22 02:40:10 [notice] 18#18: start worker process 19
+2022/06/22 02:40:10 [notice] 18#18: start worker process 20
+2022/06/22 02:40:10 [notice] 18#18: start worker process 21
+2022/06/22 02:40:10 [notice] 18#18: start worker process 22
+2022/06/22 03:27:38 [warn] 21#21: *81 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.18.0.1, server: _, request: "POST /admin/products/add HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/products/add"
+2022/06/22 04:27:11 [error] 22#22: *222 access forbidden by rule, client: 172.18.0.1, server: _, request: "GET /... HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin"
+2022/06/22 04:27:19 [error] 19#19: *226 access forbidden by rule, client: 172.18.0.1, server: _, request: "GET /... HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin"
+2022/06/22 05:50:49 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/22 05:50:49 [notice] 19#19: using the "epoll" event method
+2022/06/22 05:50:49 [notice] 19#19: nginx/1.21.6
+2022/06/22 05:50:49 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/22 05:50:49 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/22 05:50:49 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/22 05:50:49 [notice] 19#19: start worker processes
+2022/06/22 05:50:49 [notice] 19#19: start worker process 20
+2022/06/22 05:50:49 [notice] 19#19: start worker process 21
+2022/06/22 05:50:49 [notice] 19#19: start worker process 22
+2022/06/22 05:50:49 [notice] 19#19: start worker process 23
+2022/06/22 07:35:55 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/22 07:35:55 [notice] 19#19: using the "epoll" event method
+2022/06/22 07:35:55 [notice] 19#19: nginx/1.21.6
+2022/06/22 07:35:55 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/22 07:35:55 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/22 07:35:55 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/22 07:35:55 [notice] 19#19: start worker processes
+2022/06/22 07:35:55 [notice] 19#19: start worker process 20
+2022/06/22 07:35:55 [notice] 19#19: start worker process 21
+2022/06/22 07:35:55 [notice] 19#19: start worker process 22
+2022/06/22 07:35:55 [notice] 19#19: start worker process 23
+2022/06/22 10:24:25 [warn] 18#18: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/22 10:24:25 [notice] 18#18: using the "epoll" event method
+2022/06/22 10:24:25 [notice] 18#18: nginx/1.21.6
+2022/06/22 10:24:25 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/22 10:24:25 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/22 10:24:25 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/22 10:24:25 [notice] 18#18: start worker processes
+2022/06/22 10:24:25 [notice] 18#18: start worker process 19
+2022/06/22 10:24:25 [notice] 18#18: start worker process 20
+2022/06/22 10:24:25 [notice] 18#18: start worker process 21
+2022/06/22 10:24:25 [notice] 18#18: start worker process 22
+2022/06/22 10:43:39 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/22 10:43:39 [notice] 19#19: using the "epoll" event method
+2022/06/22 10:43:39 [notice] 19#19: nginx/1.21.6
+2022/06/22 10:43:39 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/22 10:43:39 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/22 10:43:39 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/22 10:43:39 [notice] 19#19: start worker processes
+2022/06/22 10:43:39 [notice] 19#19: start worker process 20
+2022/06/22 10:43:39 [notice] 19#19: start worker process 21
+2022/06/22 10:43:39 [notice] 19#19: start worker process 22
+2022/06/22 10:43:39 [notice] 19#19: start worker process 23
+2022/06/22 10:50:19 [warn] 18#18: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/22 10:50:19 [notice] 18#18: using the "epoll" event method
+2022/06/22 10:50:19 [notice] 18#18: nginx/1.21.6
+2022/06/22 10:50:19 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/22 10:50:19 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/22 10:50:19 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/22 10:50:19 [notice] 18#18: start worker processes
+2022/06/22 10:50:19 [notice] 18#18: start worker process 19
+2022/06/22 10:50:19 [notice] 18#18: start worker process 20
+2022/06/22 10:50:19 [notice] 18#18: start worker process 21
+2022/06/22 10:50:19 [notice] 18#18: start worker process 22
+2022/06/22 12:21:11 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/22 12:21:11 [notice] 19#19: using the "epoll" event method
+2022/06/22 12:21:11 [notice] 19#19: nginx/1.21.6
+2022/06/22 12:21:11 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/22 12:21:11 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/22 12:21:11 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/22 12:21:11 [notice] 19#19: start worker processes
+2022/06/22 12:21:11 [notice] 19#19: start worker process 20
+2022/06/22 12:21:11 [notice] 19#19: start worker process 21
+2022/06/22 12:21:11 [notice] 19#19: start worker process 22
+2022/06/22 12:21:11 [notice] 19#19: start worker process 23
+2022/06/23 03:28:56 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/23 03:28:56 [notice] 19#19: using the "epoll" event method
+2022/06/23 03:28:56 [notice] 19#19: nginx/1.21.6
+2022/06/23 03:28:56 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/23 03:28:56 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/23 03:28:56 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/23 03:28:56 [notice] 19#19: start worker processes
+2022/06/23 03:28:56 [notice] 19#19: start worker process 20
+2022/06/23 03:28:56 [notice] 19#19: start worker process 21
+2022/06/23 03:28:56 [notice] 19#19: start worker process 22
+2022/06/23 03:28:56 [notice] 19#19: start worker process 23
+2022/06/23 10:24:17 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/23 10:24:17 [notice] 19#19: using the "epoll" event method
+2022/06/23 10:24:17 [notice] 19#19: nginx/1.21.6
+2022/06/23 10:24:17 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/23 10:24:17 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/23 10:24:17 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/23 10:24:17 [notice] 19#19: start worker processes
+2022/06/23 10:24:17 [notice] 19#19: start worker process 20
+2022/06/23 10:24:17 [notice] 19#19: start worker process 21
+2022/06/23 10:24:17 [notice] 19#19: start worker process 22
+2022/06/23 10:24:17 [notice] 19#19: start worker process 23
+2022/06/24 01:54:15 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/24 01:54:15 [notice] 19#19: using the "epoll" event method
+2022/06/24 01:54:15 [notice] 19#19: nginx/1.21.6
+2022/06/24 01:54:15 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/24 01:54:15 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/24 01:54:15 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/24 01:54:15 [notice] 19#19: start worker processes
+2022/06/24 01:54:15 [notice] 19#19: start worker process 20
+2022/06/24 01:54:15 [notice] 19#19: start worker process 21
+2022/06/24 01:54:15 [notice] 19#19: start worker process 22
+2022/06/24 01:54:15 [notice] 19#19: start worker process 23
+2022/06/24 09:38:20 [error] 23#23: *201 open() "/var/www/html/public/css/app.css" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /css/app.css?id=3652ad0fdcd9a8bd254126af01e32f9d HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:20 [error] 23#23: *201 open() "/var/www/html/public/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:20 [error] 23#23: *201 open() "/var/www/html/public/js/app.js" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /js/app.js?id=dbbc444eaa3d5b8443ecfc5b698f3d0d HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:23 [error] 20#20: *207 open() "/var/www/html/public/img/favicon/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /img/favicon/favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:23 [error] 20#20: *207 open() "/var/www/html/public/img/favicon/favicon-32x32.png" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /img/favicon/favicon-32x32.png HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:23 [error] 20#20: *207 open() "/var/www/html/public/img/favicon/favicon-16x16.png" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /img/favicon/favicon-16x16.png HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:54 [error] 20#20: *207 open() "/var/www/html/public/css/app.css" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /css/app.css?id=3652ad0fdcd9a8bd254126af01e32f9d HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:54 [error] 20#20: *207 open() "/var/www/html/public/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:54 [error] 21#21: *205 open() "/var/www/html/public/js/app.js" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /js/app.js?id=dbbc444eaa3d5b8443ecfc5b698f3d0d HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:57 [error] 20#20: *200 open() "/var/www/html/public/css/app.css" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /css/app.css?id=3652ad0fdcd9a8bd254126af01e32f9d HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:57 [error] 20#20: *200 open() "/var/www/html/public/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:57 [error] 20#20: *200 open() "/var/www/html/public/js/app.js" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /js/app.js?id=dbbc444eaa3d5b8443ecfc5b698f3d0d HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:59 [error] 20#20: *207 open() "/var/www/html/public/img/favicon/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /img/favicon/favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:59 [error] 20#20: *207 open() "/var/www/html/public/img/favicon/favicon-32x32.png" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /img/favicon/favicon-32x32.png HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:38:59 [error] 20#20: *207 open() "/var/www/html/public/img/favicon/favicon-16x16.png" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /img/favicon/favicon-16x16.png HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:39:54 [error] 23#23: *229 open() "/var/www/html/public/css/app.css" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /css/app.css?id=3652ad0fdcd9a8bd254126af01e32f9d HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:39:54 [error] 23#23: *229 open() "/var/www/html/public/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:39:54 [error] 23#23: *229 open() "/var/www/html/public/js/app.js" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /js/app.js?id=dbbc444eaa3d5b8443ecfc5b698f3d0d HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:39:56 [error] 20#20: *237 open() "/var/www/html/public/img/favicon/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /img/favicon/favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:39:56 [error] 20#20: *237 open() "/var/www/html/public/img/favicon/favicon-32x32.png" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /img/favicon/favicon-32x32.png HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 09:39:56 [error] 20#20: *237 open() "/var/www/html/public/img/favicon/favicon-16x16.png" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /img/favicon/favicon-16x16.png HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/24 10:25:26 [warn] 18#18: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/24 10:25:26 [notice] 18#18: using the "epoll" event method
+2022/06/24 10:25:26 [notice] 18#18: nginx/1.21.6
+2022/06/24 10:25:26 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/24 10:25:26 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/24 10:25:26 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/24 10:25:26 [notice] 18#18: start worker processes
+2022/06/24 10:25:26 [notice] 18#18: start worker process 19
+2022/06/24 10:25:26 [notice] 18#18: start worker process 20
+2022/06/24 10:25:26 [notice] 18#18: start worker process 21
+2022/06/24 10:25:26 [notice] 18#18: start worker process 22
+2022/06/24 10:26:11 [warn] 18#18: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/24 10:26:11 [notice] 18#18: using the "epoll" event method
+2022/06/24 10:26:11 [notice] 18#18: nginx/1.21.6
+2022/06/24 10:26:11 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/24 10:26:11 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/24 10:26:11 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/24 10:26:11 [notice] 18#18: start worker processes
+2022/06/24 10:26:11 [notice] 18#18: start worker process 19
+2022/06/24 10:26:11 [notice] 18#18: start worker process 20
+2022/06/24 10:26:11 [notice] 18#18: start worker process 21
+2022/06/24 10:26:11 [notice] 18#18: start worker process 22
+2022/06/24 12:46:06 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/24 12:46:06 [notice] 19#19: using the "epoll" event method
+2022/06/24 12:46:06 [notice] 19#19: nginx/1.21.6
+2022/06/24 12:46:06 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/24 12:46:06 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/24 12:46:06 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/24 12:46:06 [notice] 19#19: start worker processes
+2022/06/24 12:46:06 [notice] 19#19: start worker process 20
+2022/06/24 12:46:06 [notice] 19#19: start worker process 21
+2022/06/24 12:46:06 [notice] 19#19: start worker process 22
+2022/06/24 12:46:06 [notice] 19#19: start worker process 23
+2022/06/24 13:42:59 [error] 21#21: *55 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.18.0.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock", host: "localhost:8000"
+2022/06/24 13:47:50 [warn] 18#18: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/24 13:47:50 [notice] 18#18: using the "epoll" event method
+2022/06/24 13:47:50 [notice] 18#18: nginx/1.21.6
+2022/06/24 13:47:50 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/24 13:47:50 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/24 13:47:50 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/24 13:47:50 [notice] 18#18: start worker processes
+2022/06/24 13:47:50 [notice] 18#18: start worker process 19
+2022/06/24 13:47:50 [notice] 18#18: start worker process 20
+2022/06/24 13:47:50 [notice] 18#18: start worker process 21
+2022/06/24 13:47:50 [notice] 18#18: start worker process 22
+2022/06/24 13:48:57 [error] 19#19: *1 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.19.0.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock", host: "localhost:8000"
+2022/06/24 13:51:21 [error] 19#19: *11 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.19.0.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock", host: "localhost:8000"
+2022/06/24 16:38:46 [error] 19#19: *231 FastCGI sent in stderr: "PHP message: PHP Warning:  The use statement with non-compound name 'Goutte' has no effect in /var/www/html/routes/web.php on line 65" while reading response header from upstream, client: 172.19.0.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock:", host: "localhost:8000"
+2022/06/24 16:40:15 [error] 19#19: *234 FastCGI sent in stderr: "PHP message: PHP Warning:  The use statement with non-compound name 'Goutte' has no effect in /var/www/html/routes/web.php on line 65" while reading response header from upstream, client: 172.19.0.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock:", host: "localhost:8000"
+2022/06/24 16:47:05 [error] 20#20: *238 FastCGI sent in stderr: "PHP message: PHP Warning:  The use statement with non-compound name 'Goutte' has no effect in /var/www/html/routes/web.php on line 65" while reading response header from upstream, client: 172.19.0.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock:", host: "localhost:8000"
+2022/06/27 02:13:26 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/27 02:13:26 [notice] 19#19: using the "epoll" event method
+2022/06/27 02:13:26 [notice] 19#19: nginx/1.21.6
+2022/06/27 02:13:26 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/27 02:13:26 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/27 02:13:26 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/27 02:13:26 [notice] 19#19: start worker processes
+2022/06/27 02:13:26 [notice] 19#19: start worker process 20
+2022/06/27 02:13:26 [notice] 19#19: start worker process 21
+2022/06/27 02:13:26 [notice] 19#19: start worker process 22
+2022/06/27 02:13:26 [notice] 19#19: start worker process 23
+2022/06/27 07:34:45 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/27 07:34:45 [notice] 19#19: using the "epoll" event method
+2022/06/27 07:34:45 [notice] 19#19: nginx/1.21.6
+2022/06/27 07:34:45 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/27 07:34:45 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/27 07:34:45 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/27 07:34:45 [notice] 19#19: start worker processes
+2022/06/27 07:34:45 [notice] 19#19: start worker process 20
+2022/06/27 07:34:45 [notice] 19#19: start worker process 21
+2022/06/27 07:34:45 [notice] 19#19: start worker process 22
+2022/06/27 07:34:45 [notice] 19#19: start worker process 23
+2022/06/29 05:49:13 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/29 05:49:13 [notice] 19#19: using the "epoll" event method
+2022/06/29 05:49:13 [notice] 19#19: nginx/1.21.6
+2022/06/29 05:49:13 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/29 05:49:13 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/29 05:49:13 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/29 05:49:13 [notice] 19#19: start worker processes
+2022/06/29 05:49:13 [notice] 19#19: start worker process 20
+2022/06/29 05:49:13 [notice] 19#19: start worker process 21
+2022/06/29 05:49:13 [notice] 19#19: start worker process 22
+2022/06/29 05:49:13 [notice] 19#19: start worker process 23
+2022/06/29 05:59:34 [warn] 20#20: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/29 05:59:34 [notice] 20#20: using the "epoll" event method
+2022/06/29 05:59:34 [notice] 20#20: nginx/1.21.6
+2022/06/29 05:59:34 [notice] 20#20: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/29 05:59:34 [notice] 20#20: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/29 05:59:34 [notice] 20#20: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/29 05:59:34 [notice] 20#20: start worker processes
+2022/06/29 05:59:34 [notice] 20#20: start worker process 21
+2022/06/29 05:59:34 [notice] 20#20: start worker process 22
+2022/06/29 05:59:34 [notice] 20#20: start worker process 23
+2022/06/29 05:59:34 [notice] 20#20: start worker process 24
+2022/06/29 10:39:21 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/29 10:39:21 [notice] 19#19: using the "epoll" event method
+2022/06/29 10:39:21 [notice] 19#19: nginx/1.21.6
+2022/06/29 10:39:21 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/29 10:39:21 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/29 10:39:21 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/29 10:39:21 [notice] 19#19: start worker processes
+2022/06/29 10:39:21 [notice] 19#19: start worker process 20
+2022/06/29 10:39:21 [notice] 19#19: start worker process 21
+2022/06/29 10:39:21 [notice] 19#19: start worker process 22
+2022/06/29 10:39:21 [notice] 19#19: start worker process 23
+2022/06/30 06:43:31 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/30 06:43:31 [notice] 19#19: using the "epoll" event method
+2022/06/30 06:43:31 [notice] 19#19: nginx/1.21.6
+2022/06/30 06:43:31 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/30 06:43:31 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/30 06:43:31 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/30 06:43:31 [notice] 19#19: start worker processes
+2022/06/30 06:43:31 [notice] 19#19: start worker process 20
+2022/06/30 06:43:31 [notice] 19#19: start worker process 21
+2022/06/30 06:43:31 [notice] 19#19: start worker process 22
+2022/06/30 06:43:31 [notice] 19#19: start worker process 23
+2022/06/30 07:58:07 [error] 22#22: *172 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.18.0.1, server: _, request: "GET /admin/category/list HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock", host: "localhost:8000", referrer: "http://localhost:8000/admin/crawls"
+2022/06/30 07:58:56 [warn] 18#18: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/30 07:58:56 [notice] 18#18: using the "epoll" event method
+2022/06/30 07:58:56 [notice] 18#18: nginx/1.21.6
+2022/06/30 07:58:56 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/30 07:58:56 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/30 07:58:56 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/30 07:58:56 [notice] 18#18: start worker processes
+2022/06/30 07:58:56 [notice] 18#18: start worker process 19
+2022/06/30 07:58:56 [notice] 18#18: start worker process 20
+2022/06/30 07:58:56 [notice] 18#18: start worker process 21
+2022/06/30 07:58:56 [notice] 18#18: start worker process 22
+2022/06/30 08:00:06 [error] 20#20: *2 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.18.0.1, server: _, request: "GET /admin/category/list HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock", host: "localhost:8000", referrer: "http://localhost:8000/admin/crawls"
+2022/06/30 08:01:25 [error] 20#20: *2 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.18.0.1, server: _, request: "GET /admin/category/list HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/30 08:02:47 [error] 20#20: *2 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.18.0.1, server: _, request: "GET /admin/category/list HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock", host: "localhost:8000", referrer: "http://localhost:8000/"
+2022/06/30 15:19:13 [warn] 20#20: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/06/30 15:19:13 [notice] 20#20: using the "epoll" event method
+2022/06/30 15:19:13 [notice] 20#20: nginx/1.21.6
+2022/06/30 15:19:13 [notice] 20#20: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/06/30 15:19:13 [notice] 20#20: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/06/30 15:19:13 [notice] 20#20: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/06/30 15:19:13 [notice] 20#20: start worker processes
+2022/06/30 15:19:13 [notice] 20#20: start worker process 21
+2022/06/30 15:19:13 [notice] 20#20: start worker process 22
+2022/06/30 15:19:13 [notice] 20#20: start worker process 23
+2022/06/30 15:19:13 [notice] 20#20: start worker process 24
+2022/06/30 15:28:44 [error] 24#24: *5 open() "/var/www/html/public/plugins/fontawesome-free/css/all.min.css" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /plugins/fontawesome-free/css/all.min.css HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/login"
+2022/06/30 15:28:44 [error] 21#21: *7 open() "/var/www/html/public/dist/css/adminlte.min.css" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /dist/css/adminlte.min.css HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/login"
+2022/06/30 15:28:44 [error] 21#21: *8 open() "/var/www/html/public/plugins/icheck-bootstrap/icheck-bootstrap.min.css" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /plugins/icheck-bootstrap/icheck-bootstrap.min.css HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/login"
+2022/06/30 15:28:44 [error] 22#22: *9 open() "/var/www/html/public/plugins/jquery/jquery.min.js" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /plugins/jquery/jquery.min.js HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/login"
+2022/06/30 15:28:44 [error] 21#21: *11 open() "/var/www/html/public/dist/js/adminlte.min.js" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /dist/js/adminlte.min.js HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/login"
+2022/06/30 15:28:44 [error] 23#23: *10 open() "/var/www/html/public/plugins/bootstrap/js/bootstrap.bundle.min.js" failed (2: No such file or directory), client: 172.18.0.1, server: _, request: "GET /plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/admin/login"
+2022/07/01 02:02:38 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/07/01 02:02:38 [notice] 19#19: using the "epoll" event method
+2022/07/01 02:02:38 [notice] 19#19: nginx/1.21.6
+2022/07/01 02:02:38 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/07/01 02:02:38 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/01 02:02:38 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/01 02:02:38 [notice] 19#19: start worker processes
+2022/07/01 02:02:38 [notice] 19#19: start worker process 20
+2022/07/01 02:02:38 [notice] 19#19: start worker process 21
+2022/07/01 02:02:38 [notice] 19#19: start worker process 22
+2022/07/01 02:02:38 [notice] 19#19: start worker process 23
+2022/07/01 02:29:31 [error] 22#22: *84 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.18.0.1, server: _, request: "GET /admin/crawls HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock", host: "localhost:8000", referrer: "http://localhost:8000/admin"
+2022/07/01 02:30:42 [error] 22#22: *84 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.18.0.1, server: _, request: "GET /admin/crawls HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock", host: "localhost:8000", referrer: "http://localhost:8000/admin"
+2022/07/01 02:32:44 [error] 22#22: *84 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.18.0.1, server: _, request: "GET /admin/crawls HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.4-fpm.sock", host: "localhost:8000", referrer: "http://localhost:8000/admin"
+2022/07/02 09:16:03 [warn] 19#19: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/07/02 09:16:03 [notice] 19#19: using the "epoll" event method
+2022/07/02 09:16:03 [notice] 19#19: nginx/1.21.6
+2022/07/02 09:16:03 [notice] 19#19: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/07/02 09:16:03 [notice] 19#19: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/02 09:16:03 [notice] 19#19: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/02 09:16:03 [notice] 19#19: start worker processes
+2022/07/02 09:16:03 [notice] 19#19: start worker process 20
+2022/07/02 09:16:03 [notice] 19#19: start worker process 21
+2022/07/02 09:16:03 [notice] 19#19: start worker process 22
+2022/07/02 09:16:03 [notice] 19#19: start worker process 23
+2022/07/02 14:49:08 [warn] 18#18: conflicting server name "_" on 0.0.0.0:80, ignored
+2022/07/02 14:49:08 [notice] 18#18: using the "epoll" event method
+2022/07/02 14:49:08 [notice] 18#18: nginx/1.21.6
+2022/07/02 14:49:08 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2022/07/02 14:49:08 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/02 14:49:08 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/02 14:49:08 [notice] 18#18: start worker processes
+2022/07/02 14:49:08 [notice] 18#18: start worker process 19
+2022/07/02 14:49:08 [notice] 18#18: start worker process 20
+2022/07/02 14:49:08 [notice] 18#18: start worker process 21
+2022/07/02 14:49:08 [notice] 18#18: start worker process 22

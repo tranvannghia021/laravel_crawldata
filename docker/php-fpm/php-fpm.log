@@ -1,0 +1,95 @@
+[19-Jun-2022 09:15:59] NOTICE: fpm is running, pid 18
+[19-Jun-2022 09:15:59] NOTICE: ready to handle connections
+[19-Jun-2022 09:15:59] NOTICE: systemd monitor interval set to 10000ms
+[19-Jun-2022 09:27:09] NOTICE: fpm is running, pid 17
+[19-Jun-2022 09:27:09] NOTICE: ready to handle connections
+[19-Jun-2022 09:27:09] NOTICE: systemd monitor interval set to 10000ms
+[19-Jun-2022 09:48:08] NOTICE: fpm is running, pid 17
+[19-Jun-2022 09:48:08] NOTICE: ready to handle connections
+[19-Jun-2022 09:48:08] NOTICE: systemd monitor interval set to 10000ms
+[19-Jun-2022 10:29:09] NOTICE: fpm is running, pid 17
+[19-Jun-2022 10:29:09] NOTICE: ready to handle connections
+[19-Jun-2022 10:29:09] NOTICE: systemd monitor interval set to 10000ms
+[21-Jun-2022 08:43:17] NOTICE: fpm is running, pid 17
+[21-Jun-2022 08:43:17] NOTICE: ready to handle connections
+[21-Jun-2022 08:43:17] NOTICE: systemd monitor interval set to 10000ms
+[22-Jun-2022 02:40:12] NOTICE: fpm is running, pid 17
+[22-Jun-2022 02:40:12] NOTICE: ready to handle connections
+[22-Jun-2022 02:40:12] NOTICE: systemd monitor interval set to 10000ms
+[22-Jun-2022 03:48:24] WARNING: [pool www] server reached pm.max_children setting (4), consider raising it
+[22-Jun-2022 05:50:49] NOTICE: fpm is running, pid 18
+[22-Jun-2022 05:50:49] NOTICE: ready to handle connections
+[22-Jun-2022 05:50:49] NOTICE: systemd monitor interval set to 10000ms
+[22-Jun-2022 07:35:55] NOTICE: fpm is running, pid 18
+[22-Jun-2022 07:35:55] NOTICE: ready to handle connections
+[22-Jun-2022 07:35:55] NOTICE: systemd monitor interval set to 10000ms
+[22-Jun-2022 10:24:25] NOTICE: fpm is running, pid 17
+[22-Jun-2022 10:24:25] NOTICE: ready to handle connections
+[22-Jun-2022 10:24:25] NOTICE: systemd monitor interval set to 10000ms
+[22-Jun-2022 10:43:39] NOTICE: fpm is running, pid 18
+[22-Jun-2022 10:43:39] NOTICE: ready to handle connections
+[22-Jun-2022 10:43:39] NOTICE: systemd monitor interval set to 10000ms
+[22-Jun-2022 10:50:19] NOTICE: fpm is running, pid 17
+[22-Jun-2022 10:50:19] NOTICE: ready to handle connections
+[22-Jun-2022 10:50:19] NOTICE: systemd monitor interval set to 10000ms
+[22-Jun-2022 12:21:11] NOTICE: fpm is running, pid 18
+[22-Jun-2022 12:21:11] NOTICE: ready to handle connections
+[22-Jun-2022 12:21:11] NOTICE: systemd monitor interval set to 10000ms
+[23-Jun-2022 03:28:57] NOTICE: fpm is running, pid 18
+[23-Jun-2022 03:28:57] NOTICE: ready to handle connections
+[23-Jun-2022 03:28:57] NOTICE: systemd monitor interval set to 10000ms
+[23-Jun-2022 10:24:17] NOTICE: fpm is running, pid 18
+[23-Jun-2022 10:24:17] NOTICE: ready to handle connections
+[23-Jun-2022 10:24:17] NOTICE: systemd monitor interval set to 10000ms
+[24-Jun-2022 01:54:15] NOTICE: fpm is running, pid 18
+[24-Jun-2022 01:54:16] NOTICE: ready to handle connections
+[24-Jun-2022 01:54:16] NOTICE: systemd monitor interval set to 10000ms
+[24-Jun-2022 09:38:20] WARNING: [pool www] server reached pm.max_children setting (4), consider raising it
+[24-Jun-2022 10:25:27] NOTICE: fpm is running, pid 17
+[24-Jun-2022 10:25:27] NOTICE: ready to handle connections
+[24-Jun-2022 10:25:27] NOTICE: systemd monitor interval set to 10000ms
+[24-Jun-2022 10:26:11] NOTICE: fpm is running, pid 17
+[24-Jun-2022 10:26:11] NOTICE: ready to handle connections
+[24-Jun-2022 10:26:11] NOTICE: systemd monitor interval set to 10000ms
+[24-Jun-2022 12:46:08] NOTICE: fpm is running, pid 18
+[24-Jun-2022 12:46:08] NOTICE: ready to handle connections
+[24-Jun-2022 12:46:08] NOTICE: systemd monitor interval set to 10000ms
+[24-Jun-2022 13:47:51] NOTICE: fpm is running, pid 17
+[24-Jun-2022 13:47:51] NOTICE: ready to handle connections
+[24-Jun-2022 13:47:51] NOTICE: systemd monitor interval set to 10000ms
+[24-Jun-2022 16:38:42] WARNING: [pool www] child 23 said into stderr: "NOTICE: PHP message: PHP Warning:  The use statement with non-compound name 'Goutte' has no effect in /var/www/html/routes/web.php on line 65"
+[24-Jun-2022 16:40:14] WARNING: [pool www] child 26 said into stderr: "NOTICE: PHP message: PHP Warning:  The use statement with non-compound name 'Goutte' has no effect in /var/www/html/routes/web.php on line 65"
+[24-Jun-2022 16:47:04] WARNING: [pool www] child 25 said into stderr: "NOTICE: PHP message: PHP Warning:  The use statement with non-compound name 'Goutte' has no effect in /var/www/html/routes/web.php on line 65"
+[27-Jun-2022 02:13:26] NOTICE: fpm is running, pid 18
+[27-Jun-2022 02:13:26] NOTICE: ready to handle connections
+[27-Jun-2022 02:13:26] NOTICE: systemd monitor interval set to 10000ms
+[27-Jun-2022 07:34:46] NOTICE: fpm is running, pid 18
+[27-Jun-2022 07:34:46] NOTICE: ready to handle connections
+[27-Jun-2022 07:34:46] NOTICE: systemd monitor interval set to 10000ms
+[29-Jun-2022 05:49:14] NOTICE: fpm is running, pid 18
+[29-Jun-2022 05:49:14] NOTICE: ready to handle connections
+[29-Jun-2022 05:49:14] NOTICE: systemd monitor interval set to 10000ms
+[29-Jun-2022 05:59:34] NOTICE: fpm is running, pid 19
+[29-Jun-2022 05:59:34] NOTICE: ready to handle connections
+[29-Jun-2022 05:59:34] NOTICE: systemd monitor interval set to 10000ms
+[29-Jun-2022 10:39:21] NOTICE: fpm is running, pid 18
+[29-Jun-2022 10:39:21] NOTICE: ready to handle connections
+[29-Jun-2022 10:39:21] NOTICE: systemd monitor interval set to 10000ms
+[30-Jun-2022 06:43:32] NOTICE: fpm is running, pid 18
+[30-Jun-2022 06:43:32] NOTICE: ready to handle connections
+[30-Jun-2022 06:43:32] NOTICE: systemd monitor interval set to 10000ms
+[30-Jun-2022 07:58:56] NOTICE: fpm is running, pid 17
+[30-Jun-2022 07:58:56] NOTICE: ready to handle connections
+[30-Jun-2022 07:58:56] NOTICE: systemd monitor interval set to 10000ms
+[30-Jun-2022 15:19:13] NOTICE: fpm is running, pid 19
+[30-Jun-2022 15:19:13] NOTICE: ready to handle connections
+[30-Jun-2022 15:19:13] NOTICE: systemd monitor interval set to 10000ms
+[30-Jun-2022 16:50:20] WARNING: [pool www] server reached pm.max_children setting (4), consider raising it
+[01-Jul-2022 02:02:39] NOTICE: fpm is running, pid 18
+[01-Jul-2022 02:02:39] NOTICE: ready to handle connections
+[01-Jul-2022 02:02:39] NOTICE: systemd monitor interval set to 10000ms
+[01-Jul-2022 09:27:22] WARNING: [pool www] server reached pm.max_children setting (4), consider raising it
+[02-Jul-2022 09:16:04] NOTICE: fpm is running, pid 18
+[02-Jul-2022 09:16:04] NOTICE: ready to handle connections
+[02-Jul-2022 09:16:04] NOTICE: systemd monitor interval set to 10000ms
+[02-Jul-2022 10:22:53] WARNING: [pool www] server reached pm.max_children setting (4), consider raising it
